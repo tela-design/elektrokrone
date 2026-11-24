@@ -515,18 +515,17 @@ p {
   aspect-ratio: 16 / 10;
 }
 
+/* bilder stehen im raster statt in einem horizontalen scroller */
 .service-strip {
-  display: flex;
+  display: grid;
   gap: 12px;
   margin-bottom: 22px;
-  overflow-x: auto;
-  scroll-snap-type: x mandatory;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr));
 }
 
 .service-strip .media {
-  flex: 0 0 75%;
   aspect-ratio: 16 / 10;
-  scroll-snap-align: start;
+  max-height: 320px;
 }
 
 /* ---------- hero ---------- */
@@ -1030,7 +1029,9 @@ p {
 }
 
 .split .media {
-  min-height: 380px;
+  aspect-ratio: 4 / 3;
+  max-height: min(70vh, 460px);
+  width: 100%;
 }
 
 .skills {
@@ -1161,7 +1162,7 @@ p {
 
 .lightbox-media {
   aspect-ratio: 4 / 3;
-  max-height: 78vh;
+  width: min(100%, calc(70vh * 4 / 3));
   margin: 0 auto;
 }
 
@@ -1486,7 +1487,7 @@ p {
   }
 
   .split .media {
-    min-height: 300px;
+    max-height: 340px;
   }
 }
 

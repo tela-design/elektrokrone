@@ -39,9 +39,7 @@ export const nav = [
 export const partners = [
   { slug: "blickfang-lichtdesign", name: "Blickfang Lichtdesign", url: "https://blickfang-lichtdesign.de/" },
   { slug: "5-sterne-solar", name: "5-Sterne Solar", url: "https://5-sterne-solar.de/" },
-  { slug: "wultschner", name: "Wultschner", url: "https://www.wultschner.com/" },
   { slug: "doorbird", name: "DoorBird", url: "https://www.doorbird.com/de/" },
   { slug: "homematic-ip", name: "Homematic IP", url: "https://homematic-ip.com/de" },
-  { slug: "ar-architekten", name: "AR Architekten", url: "https://ararchitekten.de/" },
 ];
 

@@ -41,5 +41,9 @@ export async function sendInquiry(_prev: FormState, data: FormData): Promise<For
     return { ok: false, message: "Senden fehlgeschlagen. Bitte versuchen Sie es erneut oder rufen Sie an." };
   }
 
-  return { ok: true, message: "Vielen Dank. Wir melden uns zeitnah bei Ihnen." };
+  return {
+    ok: true,
+    message:
+      "Vielen Dank für Ihre Anfrage! Aufgrund der aktuell hohen Nachfrage kann die Bearbeitung 1–2 Wochen dauern. Wir melden uns so schnell wie möglich bei Ihnen. Bei dringenden Anliegen rufen Sie uns bitte an.",
+  };
 }
