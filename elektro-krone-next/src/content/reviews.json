@@ -1,0 +1,63 @@
+{
+  "stats": {
+    "count": 29,
+    "rating": 5
+  },
+  "reviews": [
+    {
+      "name": "Sven F.",
+      "stars": 5,
+      "text": "Herr Serpe war im Rahmen einer Solaranlageninstallation bei uns tätig. Wir sind sehr zufrieden mit der Arbeit und der Betreuung. Saubere Arbeit, Kompetenz und Freundlichkeit sind heute ja selten, aber hier bekommt man sie noch."
+    },
+    {
+      "name": "Maximilian B.",
+      "stars": 5,
+      "text": "Die ausgeführten Arbeiten wurden einwandfrei, sorgfältig und sehr kundenorientiert erbracht. Jederzeit können wir das Unternehmen weiterempfehlen und schätzen die Freundlichkeit und Kompetenz der Mitarbeiter. Tip top!"
+    },
+    {
+      "name": "5-Sterne Solar (Partnerfirma)",
+      "stars": 5,
+      "text": "Wir sind langjährige Partner von Elektro Krone, es freut uns jedes Mal wie kompetent und ausnahmslos auf die Kundenwünsche hier eingegangen wird. Von Angebotserstellung bis Endabnahme absolut tadellos. Mehrfach seine Kompetenz und Kundenfreundlichkeit bewiesen. Weiter so."
+    },
+    {
+      "name": "Bogi",
+      "stars": 5,
+      "text": "Herr Serper hat unsere gesamte Hauselektrik gemacht. Die Zusammenarbeit, Beratung und Ausführung war sehr gut und auch noch schnell. Herr Serper ist ein sehr netter Elektriker, der auch sein Fach richtig gut kennt. Wir sind sehr zufrieden und würden ihn jederzeit weiterempfehlen. Dankeschön"
+    },
+    {
+      "name": "Jonas M.",
+      "stars": 5,
+      "text": "Die Fa. Elektro Krone hat bei uns eine Wallbox installiert. Sehr kompetente und saubere Arbeit von allen Mitarbeitern, dazu ein sehr freundliches Auftreten. Sehr zu empfehlen."
+    },
+    {
+      "name": "Denis C.",
+      "stars": 5,
+      "text": "Sehr schnell und zuverlässig, sehr gute Beratung, jederzeit erreichbar. Sind mit seiner Arbeit sehr zufrieden und können ihn mit einem guten Gewissen weiterempfehlen."
+    },
+    {
+      "name": "Joachim L.",
+      "stars": 5,
+      "text": "Ausgezeichnete Beratung und Service, freundlich im Umgang, schnelle und kompetente Umsetzung der beauftragten Arbeiten. Absolute Empfehlung!"
+    },
+    {
+      "name": "Sam D.",
+      "stars": 5,
+      "text": "Super schnell, kompetent und fair, was die Preise angeht. Hat sehr schnell reagieren können, sodass unsere Baustelle nicht stillstehen musste. Gerne wieder. Besten Dank"
+    },
+    {
+      "name": "André H.",
+      "stars": 5,
+      "text": "Freundlicher Kontakt, schnelle Installation der gewünschten Umbauten. Alles läuft super ab. Danke für die saubere Arbeit."
+    },
+    {
+      "name": "Vincenzo E.",
+      "stars": 5,
+      "text": "Sehr guter Service. Die Männer sind schnell, sehr zuverlässig. Kompetent und erklären einem sehr gut die Arbeit. Diesem Service kann ich nur empfehlen."
+    },
+    {
+      "name": "Anne",
+      "stars": 5,
+      "text": "Total freundlich, kompetent, gute Kommunikation. Und unser Keller war hinterher aufgeräumter als vorher!"
+    }
+  ]
+}
